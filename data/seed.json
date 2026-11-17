@@ -1,0 +1,17 @@
+{
+  "brand": {
+    "name": "VELUNE",
+    "tagline": "Skin-first formulas, chosen with care.",
+    "email": "hello@velune.store",
+    "supportEmail": "support@velune.store",
+    "location": "Portland, Oregon"
+  },
+  "categories": [
+    { "slug": "skincare", "name": "Skincare", "line": "Cleansers, serums, barrier care." },
+    { "slug": "makeup", "name": "Makeup", "line": "Complexion, lips, eyes." },
+    { "slug": "haircare", "name": "Haircare", "line": "Scalp first, then length." },
+    { "slug": "perfumes", "name": "Perfumes", "line": "Eau de parfum and roll-on oils." },
+    { "slug": "beauty-accessories", "name": "Beauty Accessories", "line": "Tools that make the routine work." }
+  ],
+  "products": []
+}

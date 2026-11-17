@@ -1,0 +1,3207 @@
+{
+  "generatedAt": "2026-10-28T06:07:49.848Z",
+  "aspect": "400:500",
+  "note": "Each brief needs one unique licensed photograph. Reusing one photo across unrelated SKUs is not acceptable.",
+  "products": [
+    {
+      "slug": "silk-milk-cleanser",
+      "name": "Silk Milk Cleanser",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "200 ml pump bottle",
+      "currentImage": "/images/catalog/silk-milk-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 200 ml pump bottle product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "oat-kaolin-renewing-cleanser",
+      "name": "Oat & Kaolin Renewing Cleanser",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "150 ml soft tube",
+      "currentImage": "/images/catalog/oat-kaolin-renewing-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 150 ml soft tube product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "charcoal-clarifying-gel-cleanser",
+      "name": "Charcoal Clarifying Gel Cleanser",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "180 ml gel bottle",
+      "currentImage": "/images/catalog/charcoal-clarifying-gel-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 180 ml gel bottle product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "melt-cleansing-balm",
+      "name": "Melt Cleansing Balm",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "100 ml jar",
+      "currentImage": "/images/catalog/melt-cleansing-balm.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 100 ml jar product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "salicylic-2-clarifying-cleanser",
+      "name": "Salicylic 2 Clarifying Cleanser",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "150 ml tube",
+      "currentImage": "/images/catalog/salicylic-2-clarifying-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 150 ml tube product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "amino-foam-cleanser",
+      "name": "Amino Foam Cleanser",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "150 ml foam pump",
+      "currentImage": "/images/catalog/amino-foam-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 150 ml foam pump product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rose-micellar-water",
+      "name": "Rose Micellar Water",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "400 ml refillable bottle",
+      "currentImage": "/images/catalog/rose-micellar-water.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 400 ml refillable bottle product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rice-enzyme-powder-cleanser",
+      "name": "Rice Enzyme Powder Cleanser",
+      "category": "skincare",
+      "form": "makeup compact or palette",
+      "size": "80 g shaker",
+      "currentImage": "/images/catalog/rice-enzyme-powder-cleanser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette clean beauty skincare brand white background studio",
+        "makeup compact or palette 80 g shaker product photography ivory background",
+        "skincare makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "centella-soothing-toner",
+      "name": "Centella Soothing Toner",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "200 ml bottle",
+      "currentImage": "/images/catalog/centella-soothing-toner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 200 ml bottle product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "first-dew-essence",
+      "name": "First Dew Essence",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "150 ml bottle",
+      "currentImage": "/images/catalog/first-dew-essence.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 150 ml bottle product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "niacinamide-refining-toner",
+      "name": "Niacinamide Refining Toner",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "200 ml bottle",
+      "currentImage": "/images/catalog/niacinamide-refining-toner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 200 ml bottle product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rice-ferment-glow-toner",
+      "name": "Rice Ferment Glow Toner",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "180 ml bottle",
+      "currentImage": "/images/catalog/rice-ferment-glow-toner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 180 ml bottle product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "aha-8-resurfacing-toner",
+      "name": "AHA 8 Resurfacing Toner",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml bottle",
+      "currentImage": "/images/catalog/aha-8-resurfacing-toner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 100 ml bottle product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "mugwort-calming-mist",
+      "name": "Mugwort Calming Mist",
+      "category": "skincare",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml refillable mist",
+      "currentImage": "/images/catalog/mugwort-calming-mist.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle clean beauty skincare brand white background studio",
+        "frosted glass toner bottle 100 ml refillable mist product photography ivory background",
+        "skincare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "green-tea-essence-lotion",
+      "name": "Green Tea Essence Lotion",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "180 ml bottle",
+      "currentImage": "/images/catalog/green-tea-essence-lotion.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 180 ml bottle product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "vitamin-c-15-brightening-serum",
+      "name": "Vitamin C 15 Brightening Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml airless pump",
+      "currentImage": "/images/catalog/vitamin-c-15-brightening-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml airless pump product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "ascorbyl-phosphate-10-serum",
+      "name": "Ascorbyl Phosphate 10 Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/ascorbyl-phosphate-10-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "niacinamide-10-zinc-serum",
+      "name": "Niacinamide 10 Zinc Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/niacinamide-10-zinc-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "three-weight-hyaluronic-serum",
+      "name": "Three Weight Hyaluronic Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/three-weight-hyaluronic-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "retinaldehyde-0-05-night-serum",
+      "name": "Retinaldehyde 0.05 Night Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml opaque airless",
+      "currentImage": "/images/catalog/retinaldehyde-0-05-night-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml opaque airless product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bakuchiol-comfort-serum",
+      "name": "Bakuchiol Comfort Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/bakuchiol-comfort-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "azelaic-fluid-10",
+      "name": "Azelaic Fluid 10",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "30 ml airless",
+      "currentImage": "/images/catalog/azelaic-fluid-10.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 30 ml airless product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "peptide-complex-firm-serum",
+      "name": "Peptide Complex Firm Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/peptide-complex-firm-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "centella-repair-serum",
+      "name": "Centella Repair Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/centella-repair-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "panthenol-comfort-drops",
+      "name": "Panthenol Comfort Drops",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/panthenol-comfort-drops.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "turmeric-brightening-serum",
+      "name": "Turmeric Brightening Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/turmeric-brightening-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "glycolic-7-texture-serum",
+      "name": "Glycolic 7 Texture Serum",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml airless",
+      "currentImage": "/images/catalog/glycolic-7-texture-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml airless product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "ceramide-barrier-cream",
+      "name": "Ceramide Barrier Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "50 ml airless pump",
+      "currentImage": "/images/catalog/ceramide-barrier-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 50 ml airless pump product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "weightless-day-gel",
+      "name": "Weightless Day Gel",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "50 ml tube",
+      "currentImage": "/images/catalog/weightless-day-gel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 50 ml tube product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "shea-marula-night-cream",
+      "name": "Shea & Marula Night Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "50 ml jar with spatula",
+      "currentImage": "/images/catalog/shea-marula-night-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 50 ml jar with spatula product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "centella-water-cream",
+      "name": "Centella Water Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "50 ml refillable pot",
+      "currentImage": "/images/catalog/centella-water-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 50 ml refillable pot product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "oat-calming-balm",
+      "name": "Oat Calming Balm",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "20 ml tin",
+      "currentImage": "/images/catalog/oat-calming-balm.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 20 ml tin product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "green-tea-balancing-lotion",
+      "name": "Green Tea Balancing Lotion",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "200 ml bottle",
+      "currentImage": "/images/catalog/green-tea-balancing-lotion.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 200 ml bottle product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sea-buckthorn-day-cream",
+      "name": "Sea Buckthorn Day Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "50 ml airless",
+      "currentImage": "/images/catalog/sea-buckthorn-day-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 50 ml airless product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "neroli-comfort-cream",
+      "name": "Neroli Comfort Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "50 ml jar",
+      "currentImage": "/images/catalog/neroli-comfort-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 50 ml jar product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "barrier-repair-body-lotion",
+      "name": "Barrier Repair Body Lotion",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "400 ml pump",
+      "currentImage": "/images/catalog/barrier-repair-body-lotion.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 400 ml pump product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "invisible-sun-fluid-spf-50",
+      "name": "Invisible Sun Fluid SPF 50",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "50 ml bottle",
+      "currentImage": "/images/catalog/invisible-sun-fluid-spf-50.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 50 ml bottle product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "mineral-sunscreen-spf-30",
+      "name": "Mineral Sunscreen SPF 30",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "50 ml tube",
+      "currentImage": "/images/catalog/mineral-sunscreen-spf-30.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 50 ml tube product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "tinted-day-fluid-spf-40",
+      "name": "Tinted Day Fluid SPF 40",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "40 ml bottle",
+      "currentImage": "/images/catalog/tinted-day-fluid-spf-40.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 40 ml bottle product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sun-stick-spf-50",
+      "name": "Sun Stick SPF 50",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "15 g stick",
+      "currentImage": "/images/catalog/sun-stick-spf-50.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 15 g stick product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "after-sun-recovery-gel",
+      "name": "After Sun Recovery Gel",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "150 ml tube",
+      "currentImage": "/images/catalog/after-sun-recovery-gel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 150 ml tube product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "kaolin-dead-sea-clay-masque",
+      "name": "Kaolin & Dead Sea Clay Masque",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "100 ml tube",
+      "currentImage": "/images/catalog/kaolin-dead-sea-clay-masque.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 100 ml tube product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bentonite-charcoal-purifying-masque",
+      "name": "Bentonite & Charcoal Purifying Masque",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "100 ml jar",
+      "currentImage": "/images/catalog/bentonite-charcoal-purifying-masque.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 100 ml jar product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "overnight-rice-sleeping-mask",
+      "name": "Overnight Rice Sleeping Mask",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "70 ml jar",
+      "currentImage": "/images/catalog/overnight-rice-sleeping-mask.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 70 ml jar product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "jojoba-bead-polishing-scrub",
+      "name": "Jojoba Bead Polishing Scrub",
+      "category": "skincare",
+      "form": "nail polish bottle",
+      "size": "75 ml tube",
+      "currentImage": "/images/catalog/jojoba-bead-polishing-scrub.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail polish bottle clean beauty skincare brand white background studio",
+        "nail polish bottle 75 ml tube product photography ivory background",
+        "skincare nail polish bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lactic-5-overnight-peel",
+      "name": "Lactic 5 Overnight Peel",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml airless",
+      "currentImage": "/images/catalog/lactic-5-overnight-peel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml airless product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "peptide-eye-cream",
+      "name": "Peptide Eye Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "15 ml airless",
+      "currentImage": "/images/catalog/peptide-eye-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 15 ml airless product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "caffeine-de-puff-fluid",
+      "name": "Caffeine De-Puff Fluid",
+      "category": "skincare",
+      "form": "reusable makeup sponge",
+      "size": "20 ml roller bottle",
+      "currentImage": "/images/catalog/caffeine-de-puff-fluid.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "reusable makeup sponge clean beauty skincare brand white background studio",
+        "reusable makeup sponge 20 ml roller bottle product photography ivory background",
+        "skincare reusable makeup sponge packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "retinal-eye-cream-0-03",
+      "name": "Retinal Eye Cream 0.03",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "15 ml airless",
+      "currentImage": "/images/catalog/retinal-eye-cream-0-03.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 15 ml airless product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "hydrogel-eye-patches",
+      "name": "Hydrogel Eye Patches",
+      "category": "skincare",
+      "form": "soft squeeze tube",
+      "size": "12 patches",
+      "currentImage": "/images/catalog/hydrogel-eye-patches.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube clean beauty skincare brand white background studio",
+        "soft squeeze tube 12 patches product photography ivory background",
+        "skincare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "squalane-rosehip-facial-oil",
+      "name": "Squalane & Rosehip Facial Oil",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/squalane-rosehip-facial-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "marula-camellia-night-oil",
+      "name": "Marula & Camellia Night Oil",
+      "category": "skincare",
+      "form": "dropper serum bottle",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/marula-camellia-night-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle clean beauty skincare brand white background studio",
+        "dropper serum bottle 30 ml dropper product photography ivory background",
+        "skincare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "jojoba-balance-oil",
+      "name": "Jojoba Balance Oil",
+      "category": "skincare",
+      "form": "hair accessory or organiser",
+      "size": "30 ml dropper",
+      "currentImage": "/images/catalog/jojoba-balance-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser clean beauty skincare brand white background studio",
+        "hair accessory or organiser 30 ml dropper product photography ivory background",
+        "skincare hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "shea-lip-mask",
+      "name": "Shea Lip Mask",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "15 ml pot",
+      "currentImage": "/images/catalog/shea-lip-mask.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 15 ml pot product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "peptide-lip-butter",
+      "name": "Peptide Lip Butter",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "10 ml tube",
+      "currentImage": "/images/catalog/peptide-lip-butter.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 10 ml tube product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "double-cleanse-duo",
+      "name": "Double Cleanse Duo",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "30 ml plus 60 ml",
+      "currentImage": "/images/catalog/double-cleanse-duo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 30 ml plus 60 ml product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lactic-body-smoothing-lotion",
+      "name": "Lactic Body Smoothing Lotion",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "250 ml pump",
+      "currentImage": "/images/catalog/lactic-body-smoothing-lotion.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 250 ml pump product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "neck-and-chest-peptide-cream",
+      "name": "Neck and Chest Peptide Cream",
+      "category": "skincare",
+      "form": "cream jar",
+      "size": "70 ml tube",
+      "currentImage": "/images/catalog/neck-and-chest-peptide-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar clean beauty skincare brand white background studio",
+        "cream jar 70 ml tube product photography ivory background",
+        "skincare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "back-and-chest-clarifying-wash",
+      "name": "Back and Chest Clarifying Wash",
+      "category": "skincare",
+      "form": "pump bottle",
+      "size": "300 ml pump",
+      "currentImage": "/images/catalog/back-and-chest-clarifying-wash.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle clean beauty skincare brand white background studio",
+        "pump bottle 300 ml pump product photography ivory background",
+        "skincare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sun-powder-spf-50",
+      "name": "Sun Powder SPF 50",
+      "category": "skincare",
+      "form": "makeup compact or palette",
+      "size": "9 g compact",
+      "currentImage": "/images/catalog/sun-powder-spf-50.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette clean beauty skincare brand white background studio",
+        "makeup compact or palette 9 g compact product photography ivory background",
+        "skincare makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "second-skin-liquid-foundation",
+      "name": "Second Skin Liquid Foundation",
+      "category": "makeup",
+      "form": "pump bottle",
+      "size": "30 ml pump bottle",
+      "currentImage": "/images/catalog/second-skin-liquid-foundation.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle professional colour cosmetics brand white background studio",
+        "pump bottle 30 ml pump bottle product photography ivory background",
+        "makeup pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "serum-foundation-medium-coverage",
+      "name": "Serum Foundation Medium Coverage",
+      "category": "makeup",
+      "form": "dropper serum bottle",
+      "size": "30 ml pump bottle",
+      "currentImage": "/images/catalog/serum-foundation-medium-coverage.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle professional colour cosmetics brand white background studio",
+        "dropper serum bottle 30 ml pump bottle product photography ivory background",
+        "makeup dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "matte-velvet-foundation",
+      "name": "Matte Velvet Foundation",
+      "category": "makeup",
+      "form": "pump bottle",
+      "size": "30 ml pump bottle",
+      "currentImage": "/images/catalog/matte-velvet-foundation.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle professional colour cosmetics brand white background studio",
+        "pump bottle 30 ml pump bottle product photography ivory background",
+        "makeup pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bare-skin-tint",
+      "name": "Bare Skin Tint",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "40 ml tube",
+      "currentImage": "/images/catalog/bare-skin-tint.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 40 ml tube product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cream-concealer-pot",
+      "name": "Cream Concealer Pot",
+      "category": "makeup",
+      "form": "cream jar",
+      "size": "6 g pot",
+      "currentImage": "/images/catalog/cream-concealer-pot.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar professional colour cosmetics brand white background studio",
+        "cream jar 6 g pot product photography ivory background",
+        "makeup cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "brightening-under-eye-concealer",
+      "name": "Brightening Under-Eye Concealer",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "7 ml applicator wand",
+      "currentImage": "/images/catalog/brightening-under-eye-concealer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 7 ml applicator wand product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "blur-primer",
+      "name": "Blur Primer",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "30 ml tube",
+      "currentImage": "/images/catalog/blur-primer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 30 ml tube product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "glow-primer",
+      "name": "Glow Primer",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "30 ml tube",
+      "currentImage": "/images/catalog/glow-primer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 30 ml tube product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "pore-smoothing-primer",
+      "name": "Pore Smoothing Primer",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "30 ml tube",
+      "currentImage": "/images/catalog/pore-smoothing-primer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 30 ml tube product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "longwear-setting-spray",
+      "name": "Longwear Setting Spray",
+      "category": "makeup",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml spray",
+      "currentImage": "/images/catalog/longwear-setting-spray.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle professional colour cosmetics brand white background studio",
+        "frosted glass toner bottle 100 ml spray product photography ivory background",
+        "makeup frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "dewy-finish-setting-spray",
+      "name": "Dewy Finish Setting Spray",
+      "category": "makeup",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml spray",
+      "currentImage": "/images/catalog/dewy-finish-setting-spray.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle professional colour cosmetics brand white background studio",
+        "frosted glass toner bottle 100 ml spray product photography ivory background",
+        "makeup frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "loose-finishing-powder",
+      "name": "Loose Finishing Powder",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "12 g pot",
+      "currentImage": "/images/catalog/loose-finishing-powder.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 12 g pot product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "pressed-setting-powder",
+      "name": "Pressed Setting Powder",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "9 g refillable compact",
+      "currentImage": "/images/catalog/pressed-setting-powder.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 9 g refillable compact product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "blurring-multipurpose-balm",
+      "name": "Blurring Multipurpose Balm",
+      "category": "makeup",
+      "form": "cream jar",
+      "size": "6 g twist stick",
+      "currentImage": "/images/catalog/blurring-multipurpose-balm.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar professional colour cosmetics brand white background studio",
+        "cream jar 6 g twist stick product photography ivory background",
+        "makeup cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cream-blush-pot",
+      "name": "Cream Blush Pot",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "6 g pot",
+      "currentImage": "/images/catalog/cream-blush-pot.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 6 g pot product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "liquid-blush-droplet",
+      "name": "Liquid Blush Droplet",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "15 ml dropper",
+      "currentImage": "/images/catalog/liquid-blush-droplet.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 15 ml dropper product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "powder-blush",
+      "name": "Powder Blush",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "6 g pan",
+      "currentImage": "/images/catalog/powder-blush.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 6 g pan product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cheek-and-lip-balm",
+      "name": "Cheek and Lip Balm",
+      "category": "makeup",
+      "form": "cream jar",
+      "size": "8 ml tube",
+      "currentImage": "/images/catalog/cheek-and-lip-balm.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar professional colour cosmetics brand white background studio",
+        "cream jar 8 ml tube product photography ivory background",
+        "makeup cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "terracotta-bronzer",
+      "name": "Terracotta Bronzer",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "10 g baked pan",
+      "currentImage": "/images/catalog/terracotta-bronzer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 10 g baked pan product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "powder-highlighter",
+      "name": "Powder Highlighter",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "6 g pan",
+      "currentImage": "/images/catalog/powder-highlighter.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 6 g pan product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "highlighter-stick",
+      "name": "Highlighter Stick",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "6 g twist stick",
+      "currentImage": "/images/catalog/highlighter-stick.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 6 g twist stick product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "blush-duo-compact",
+      "name": "Blush Duo Compact",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "8 g duo pan",
+      "currentImage": "/images/catalog/blush-duo-compact.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 8 g duo pan product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "eyeshadow-mono",
+      "name": "Eyeshadow Mono",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "3 g pan",
+      "currentImage": "/images/catalog/eyeshadow-mono.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 3 g pan product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "eyeshadow-quad",
+      "name": "Eyeshadow Quad",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "4 x 2 g",
+      "currentImage": "/images/catalog/eyeshadow-quad.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 4 x 2 g product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "studio-eyeshadow-palette",
+      "name": "Studio Eyeshadow Palette",
+      "category": "makeup",
+      "form": "makeup compact or palette",
+      "size": "12 x 1.5 g",
+      "currentImage": "/images/catalog/studio-eyeshadow-palette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette professional colour cosmetics brand white background studio",
+        "makeup compact or palette 12 x 1.5 g product photography ivory background",
+        "makeup makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "liquid-eyeliner-pen",
+      "name": "Liquid Eyeliner Pen",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "0.6 ml pen",
+      "currentImage": "/images/catalog/liquid-eyeliner-pen.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 0.6 ml pen product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "gel-eyeliner-pot",
+      "name": "Gel Eyeliner Pot",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "4 g pot",
+      "currentImage": "/images/catalog/gel-eyeliner-pot.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 4 g pot product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "kohl-eyeliner-pencil",
+      "name": "Kohl Eyeliner Pencil",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "1.2 g twist pencil",
+      "currentImage": "/images/catalog/kohl-eyeliner-pencil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 1.2 g twist pencil product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lengthening-mascara",
+      "name": "Lengthening Mascara",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "9 ml tube",
+      "currentImage": "/images/catalog/lengthening-mascara.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 9 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "volume-mascara",
+      "name": "Volume Mascara",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "10 ml tube",
+      "currentImage": "/images/catalog/volume-mascara.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 10 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "waterproof-mascara",
+      "name": "Waterproof Mascara",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "9 ml tube",
+      "currentImage": "/images/catalog/waterproof-mascara.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 9 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lash-primer",
+      "name": "Lash Primer",
+      "category": "makeup",
+      "form": "soft squeeze tube",
+      "size": "8 ml tube",
+      "currentImage": "/images/catalog/lash-primer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube professional colour cosmetics brand white background studio",
+        "soft squeeze tube 8 ml tube product photography ivory background",
+        "makeup soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "clear-brow-gel",
+      "name": "Clear Brow Gel",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "7 ml tube",
+      "currentImage": "/images/catalog/clear-brow-gel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 7 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "tinted-brow-gel",
+      "name": "Tinted Brow Gel",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "7 ml tube",
+      "currentImage": "/images/catalog/tinted-brow-gel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 7 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "microfine-brow-pencil",
+      "name": "Microfine Brow Pencil",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "0.3 g pencil",
+      "currentImage": "/images/catalog/microfine-brow-pencil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 0.3 g pencil product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "brow-pomade-pot",
+      "name": "Brow Pomade Pot",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "5 g pot",
+      "currentImage": "/images/catalog/brow-pomade-pot.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 5 g pot product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "brow-setting-wax",
+      "name": "Brow Setting Wax",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "6 ml tube",
+      "currentImage": "/images/catalog/brow-setting-wax.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 6 ml tube product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "satin-lipstick",
+      "name": "Satin Lipstick",
+      "category": "makeup",
+      "form": "lipstick bullet",
+      "size": "",
+      "currentImage": "/images/catalog/satin-lipstick.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lipstick bullet professional colour cosmetics brand white background studio",
+        "lipstick bullet  product photography ivory background",
+        "makeup lipstick bullet packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "matte-velvet-lipstick",
+      "name": "Matte Velvet Lipstick",
+      "category": "makeup",
+      "form": "lipstick bullet",
+      "size": "",
+      "currentImage": "/images/catalog/matte-velvet-lipstick.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lipstick bullet professional colour cosmetics brand white background studio",
+        "lipstick bullet  product photography ivory background",
+        "makeup lipstick bullet packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "liquid-lip-colour",
+      "name": "Liquid Lip Colour",
+      "category": "makeup",
+      "form": "lipstick bullet",
+      "size": "6 ml applicator",
+      "currentImage": "/images/catalog/liquid-lip-colour.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lipstick bullet professional colour cosmetics brand white background studio",
+        "lipstick bullet 6 ml applicator product photography ivory background",
+        "makeup lipstick bullet packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lip-liner-pencil",
+      "name": "Lip Liner Pencil",
+      "category": "makeup",
+      "form": "mascara or wand tube",
+      "size": "1.2 g twist pencil",
+      "currentImage": "/images/catalog/lip-liner-pencil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "mascara or wand tube professional colour cosmetics brand white background studio",
+        "mascara or wand tube 1.2 g twist pencil product photography ivory background",
+        "makeup mascara or wand tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sheer-lip-gloss",
+      "name": "Sheer Lip Gloss",
+      "category": "makeup",
+      "form": "nail polish bottle",
+      "size": "8 ml tube",
+      "currentImage": "/images/catalog/sheer-lip-gloss.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail polish bottle professional colour cosmetics brand white background studio",
+        "nail polish bottle 8 ml tube product photography ivory background",
+        "makeup nail polish bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "velvet-lip-ink",
+      "name": "Velvet Lip Ink",
+      "category": "makeup",
+      "form": "dropper serum bottle",
+      "size": "5 ml dropper",
+      "currentImage": "/images/catalog/velvet-lip-ink.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle professional colour cosmetics brand white background studio",
+        "dropper serum bottle 5 ml dropper product photography ivory background",
+        "makeup dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cushion-lip-tint",
+      "name": "Cushion Lip Tint",
+      "category": "makeup",
+      "form": "lipstick bullet",
+      "size": "6 ml cushion tube",
+      "currentImage": "/images/catalog/cushion-lip-tint.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lipstick bullet professional colour cosmetics brand white background studio",
+        "lipstick bullet 6 ml cushion tube product photography ivory background",
+        "makeup lipstick bullet packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cream-lip-colour",
+      "name": "Cream Lip Colour",
+      "category": "makeup",
+      "form": "lipstick bullet",
+      "size": "",
+      "currentImage": "/images/catalog/cream-lip-colour.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lipstick bullet professional colour cosmetics brand white background studio",
+        "lipstick bullet  product photography ivory background",
+        "makeup lipstick bullet packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "longwear-lip-stain",
+      "name": "Longwear Lip Stain",
+      "category": "makeup",
+      "form": "lip stain tube with wand",
+      "size": "4 ml dual-ended",
+      "currentImage": "/images/catalog/longwear-lip-stain.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "lip stain tube with wand professional colour cosmetics brand white background studio",
+        "lip stain tube with wand 4 ml dual-ended product photography ivory background",
+        "makeup lip stain tube with wand packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "nail-lacquer",
+      "name": "Nail Lacquer",
+      "category": "makeup",
+      "form": "nail oil pen",
+      "size": "12 ml bottle",
+      "currentImage": "/images/catalog/nail-lacquer.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail oil pen professional colour cosmetics brand white background studio",
+        "nail oil pen 12 ml bottle product photography ivory background",
+        "makeup nail oil pen packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "strengthening-base-coat",
+      "name": "Strengthening Base Coat",
+      "category": "makeup",
+      "form": "nail polish bottle",
+      "size": "12 ml bottle",
+      "currentImage": "/images/catalog/strengthening-base-coat.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail polish bottle professional colour cosmetics brand white background studio",
+        "nail polish bottle 12 ml bottle product photography ivory background",
+        "makeup nail polish bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "high-gloss-top-coat",
+      "name": "High Gloss Top Coat",
+      "category": "makeup",
+      "form": "nail polish bottle",
+      "size": "12 ml bottle",
+      "currentImage": "/images/catalog/high-gloss-top-coat.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail polish bottle professional colour cosmetics brand white background studio",
+        "nail polish bottle 12 ml bottle product photography ivory background",
+        "makeup nail polish bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cuticle-and-nail-oil",
+      "name": "Cuticle and Nail Oil",
+      "category": "makeup",
+      "form": "nail oil pen",
+      "size": "8 ml refillable pen",
+      "currentImage": "/images/catalog/cuticle-and-nail-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail oil pen professional colour cosmetics brand white background studio",
+        "nail oil pen 8 ml refillable pen product photography ivory background",
+        "makeup nail oil pen packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "daily-cream-shampoo",
+      "name": "Daily Cream Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "300 ml bottle",
+      "currentImage": "/images/catalog/daily-cream-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 300 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "clarifying-reset-shampoo",
+      "name": "Clarifying Reset Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/clarifying-reset-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "scalp-renewal-shampoo",
+      "name": "Scalp Renewal Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/scalp-renewal-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "volumising-rice-protein-shampoo",
+      "name": "Volumising Rice Protein Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "300 ml bottle",
+      "currentImage": "/images/catalog/volumising-rice-protein-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 300 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "colour-care-shampoo",
+      "name": "Colour Care Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "300 ml bottle",
+      "currentImage": "/images/catalog/colour-care-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 300 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "oat-comfort-shampoo",
+      "name": "Oat Comfort Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/oat-comfort-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "caffeine-density-shampoo",
+      "name": "Caffeine Density Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/caffeine-density-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "curl-cleansing-co-wash",
+      "name": "Curl Cleansing Co-Wash",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/curl-cleansing-co-wash.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "post-workout-scalp-shampoo",
+      "name": "Post-Workout Scalp Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "180 ml bottle",
+      "currentImage": "/images/catalog/post-workout-scalp-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 180 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bond-care-strengthening-shampoo",
+      "name": "Bond Care Strengthening Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/bond-care-strengthening-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "daily-moisture-conditioner",
+      "name": "Daily Moisture Conditioner",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/daily-moisture-conditioner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 250 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "slip-detangling-conditioner",
+      "name": "Slip Detangling Conditioner",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "300 ml bottle",
+      "currentImage": "/images/catalog/slip-detangling-conditioner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 300 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "weightless-conditioner-for-fine-hair",
+      "name": "Weightless Conditioner for Fine Hair",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/weightless-conditioner-for-fine-hair.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 250 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "curl-defining-conditioner",
+      "name": "Curl Defining Conditioner",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "300 ml bottle",
+      "currentImage": "/images/catalog/curl-defining-conditioner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 300 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "colour-shield-conditioner",
+      "name": "Colour Shield Conditioner",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/colour-shield-conditioner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 250 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "keratin-repair-conditioner",
+      "name": "Keratin Repair Conditioner",
+      "category": "haircare",
+      "form": "conditioner bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/keratin-repair-conditioner.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "conditioner bottle salon haircare brand white background studio",
+        "conditioner bottle 250 ml bottle product photography ivory background",
+        "haircare conditioner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "argan-and-camellia-hair-oil",
+      "name": "Argan and Camellia Hair Oil",
+      "category": "haircare",
+      "form": "pump bottle",
+      "size": "50 ml pump",
+      "currentImage": "/images/catalog/argan-and-camellia-hair-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle salon haircare brand white background studio",
+        "pump bottle 50 ml pump product photography ivory background",
+        "haircare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "scalp-oil-vetiver-and-cedar",
+      "name": "Scalp Oil, Vetiver and Cedar",
+      "category": "haircare",
+      "form": "dropper serum bottle",
+      "size": "60 ml dropper",
+      "currentImage": "/images/catalog/scalp-oil-vetiver-and-cedar.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle salon haircare brand white background studio",
+        "dropper serum bottle 60 ml dropper product photography ivory background",
+        "haircare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lightweight-shine-oil",
+      "name": "Lightweight Shine Oil",
+      "category": "haircare",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml spray",
+      "currentImage": "/images/catalog/lightweight-shine-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle salon haircare brand white background studio",
+        "frosted glass toner bottle 100 ml spray product photography ivory background",
+        "haircare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "overnight-ritual-oil",
+      "name": "Overnight Ritual Oil",
+      "category": "haircare",
+      "form": "dropper serum bottle",
+      "size": "100 ml bottle",
+      "currentImage": "/images/catalog/overnight-ritual-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle salon haircare brand white background studio",
+        "dropper serum bottle 100 ml bottle product photography ivory background",
+        "haircare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "hair-mist-neroli-and-bergamot",
+      "name": "Hair Mist, Neroli and Bergamot",
+      "category": "haircare",
+      "form": "frosted glass toner bottle",
+      "size": "100 ml spray",
+      "currentImage": "/images/catalog/hair-mist-neroli-and-bergamot.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle salon haircare brand white background studio",
+        "frosted glass toner bottle 100 ml spray product photography ivory background",
+        "haircare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "shea-and-marula-hair-masque",
+      "name": "Shea and Marula Hair Masque",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "200 ml jar",
+      "currentImage": "/images/catalog/shea-and-marula-hair-masque.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 200 ml jar product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "keratin-smooth-mask",
+      "name": "Keratin Smooth Mask",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "200 ml jar",
+      "currentImage": "/images/catalog/keratin-smooth-mask.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 200 ml jar product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "clay-scalp-purifying-mask",
+      "name": "Clay Scalp Purifying Mask",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "150 ml tube",
+      "currentImage": "/images/catalog/clay-scalp-purifying-mask.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 150 ml tube product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bond-repair-masque",
+      "name": "Bond Repair Masque",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "200 ml jar",
+      "currentImage": "/images/catalog/bond-repair-masque.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 200 ml jar product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "leave-in-cream",
+      "name": "Leave-In Cream",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "150 ml pump",
+      "currentImage": "/images/catalog/leave-in-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 150 ml pump product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "detangling-mist",
+      "name": "Detangling Mist",
+      "category": "haircare",
+      "form": "frosted glass toner bottle",
+      "size": "200 ml spray",
+      "currentImage": "/images/catalog/detangling-mist.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle salon haircare brand white background studio",
+        "frosted glass toner bottle 200 ml spray product photography ivory background",
+        "haircare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "heat-protectant-cream",
+      "name": "Heat Protectant Cream",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "150 ml tube",
+      "currentImage": "/images/catalog/heat-protectant-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 150 ml tube product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "curl-defining-cream",
+      "name": "Curl Defining Cream",
+      "category": "haircare",
+      "form": "cream jar",
+      "size": "200 ml tub",
+      "currentImage": "/images/catalog/curl-defining-cream.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar salon haircare brand white background studio",
+        "cream jar 200 ml tub product photography ivory background",
+        "haircare cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "anti-frizz-hair-serum",
+      "name": "Anti-Frizz Hair Serum",
+      "category": "haircare",
+      "form": "dropper serum bottle",
+      "size": "50 ml pump",
+      "currentImage": "/images/catalog/anti-frizz-hair-serum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle salon haircare brand white background studio",
+        "dropper serum bottle 50 ml pump product photography ivory background",
+        "haircare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sea-salt-texture-spray",
+      "name": "Sea Salt Texture Spray",
+      "category": "haircare",
+      "form": "frosted glass toner bottle",
+      "size": "150 ml spray",
+      "currentImage": "/images/catalog/sea-salt-texture-spray.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle salon haircare brand white background studio",
+        "frosted glass toner bottle 150 ml spray product photography ivory background",
+        "haircare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rice-starch-dry-shampoo",
+      "name": "Rice Starch Dry Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "120 ml pump",
+      "currentImage": "/images/catalog/rice-starch-dry-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 120 ml pump product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "flexible-hold-styling-gel",
+      "name": "Flexible Hold Styling Gel",
+      "category": "haircare",
+      "form": "soft squeeze tube",
+      "size": "200 ml tube",
+      "currentImage": "/images/catalog/flexible-hold-styling-gel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "soft squeeze tube salon haircare brand white background studio",
+        "soft squeeze tube 200 ml tube product photography ivory background",
+        "haircare soft squeeze tube packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "glossing-shine-spray",
+      "name": "Glossing Shine Spray",
+      "category": "haircare",
+      "form": "nail polish bottle",
+      "size": "100 ml spray",
+      "currentImage": "/images/catalog/glossing-shine-spray.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "nail polish bottle salon haircare brand white background studio",
+        "nail polish bottle 100 ml spray product photography ivory background",
+        "haircare nail polish bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "scalp-serum-with-peptide-and-caffeine",
+      "name": "Scalp Serum with Peptide and Caffeine",
+      "category": "haircare",
+      "form": "dropper serum bottle",
+      "size": "60 ml dropper",
+      "currentImage": "/images/catalog/scalp-serum-with-peptide-and-caffeine.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle salon haircare brand white background studio",
+        "dropper serum bottle 60 ml dropper product photography ivory background",
+        "haircare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "exfoliating-scalp-lotion",
+      "name": "Exfoliating Scalp Lotion",
+      "category": "haircare",
+      "form": "pump bottle",
+      "size": "100 ml applicator bottle",
+      "currentImage": "/images/catalog/exfoliating-scalp-lotion.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle salon haircare brand white background studio",
+        "pump bottle 100 ml applicator bottle product photography ivory background",
+        "haircare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "pre-wash-scalp-treatment",
+      "name": "Pre-Wash Scalp Treatment",
+      "category": "haircare",
+      "form": "dropper serum bottle",
+      "size": "120 ml tube",
+      "currentImage": "/images/catalog/pre-wash-scalp-treatment.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle salon haircare brand white background studio",
+        "dropper serum bottle 120 ml tube product photography ivory background",
+        "haircare dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "post-wash-scalp-tonic",
+      "name": "Post-Wash Scalp Tonic",
+      "category": "haircare",
+      "form": "pump bottle",
+      "size": "100 ml applicator spray",
+      "currentImage": "/images/catalog/post-wash-scalp-tonic.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle salon haircare brand white background studio",
+        "pump bottle 100 ml applicator spray product photography ivory background",
+        "haircare pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "hair-uv-mist",
+      "name": "Hair UV Mist",
+      "category": "haircare",
+      "form": "frosted glass toner bottle",
+      "size": "150 ml spray",
+      "currentImage": "/images/catalog/hair-uv-mist.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle salon haircare brand white background studio",
+        "frosted glass toner bottle 150 ml spray product photography ivory background",
+        "haircare frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "blonde-tone-shampoo",
+      "name": "Blonde Tone Shampoo",
+      "category": "haircare",
+      "form": "shampoo bottle",
+      "size": "250 ml bottle",
+      "currentImage": "/images/catalog/blonde-tone-shampoo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "shampoo bottle salon haircare brand white background studio",
+        "shampoo bottle 250 ml bottle product photography ivory background",
+        "haircare shampoo bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "ivory-thread-eau-de-parfum",
+      "name": "Ivory Thread Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/ivory-thread-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "vetiver-hour-eau-de-parfum",
+      "name": "Vetiver Hour Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/vetiver-hour-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "amber-ledger-eau-de-parfum",
+      "name": "Amber Ledger Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/amber-ledger-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "skin-musk-eau-de-toilette",
+      "name": "Skin Musk Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/skin-musk-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "neroli-dawn-eau-de-toilette",
+      "name": "Neroli Dawn Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/neroli-dawn-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bergamot-report-eau-de-toilette",
+      "name": "Bergamot Report Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/bergamot-report-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sandal-silence-eau-de-parfum",
+      "name": "Sandal Silence Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/sandal-silence-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "jasmine-index-eau-de-parfum",
+      "name": "Jasmine Index Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/jasmine-index-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "oud-interval-extrait-de-parfum",
+      "name": "Oud Interval Extrait de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "30 ml",
+      "currentImage": "/images/catalog/oud-interval-extrait-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 30 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "ember-saffron-eau-de-parfum",
+      "name": "Ember Saffron Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/ember-saffron-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "green-tea-and-cedar-eau-de-toilette",
+      "name": "Green Tea and Cedar Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/green-tea-and-cedar-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "fig-leaf-water-eau-de-toilette",
+      "name": "Fig Leaf Water Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/fig-leaf-water-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "iso-e-cloud-eau-de-toilette",
+      "name": "Iso E Cloud Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/iso-e-cloud-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "ambroxan-07-eau-de-parfum",
+      "name": "Ambroxan 07 Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/ambroxan-07-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rose-ash-eau-de-parfum",
+      "name": "Rose Ash Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/rose-ash-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "coffee-amber-extrait",
+      "name": "Coffee Amber Extrait",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "20 ml",
+      "currentImage": "/images/catalog/coffee-amber-extrait.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 20 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "iris-powder-extrait",
+      "name": "Iris Powder Extrait",
+      "category": "perfumes",
+      "form": "makeup compact or palette",
+      "size": "20 ml",
+      "currentImage": "/images/catalog/iris-powder-extrait.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup compact or palette niche fragrance house white background studio",
+        "makeup compact or palette 20 ml product photography ivory background",
+        "perfumes makeup compact or palette packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "tuberose-archive-eau-de-parfum",
+      "name": "Tuberose Archive Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/tuberose-archive-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cedar-salt-eau-de-parfum",
+      "name": "Cedar Salt Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/cedar-salt-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "rain-on-stone-eau-de-toilette",
+      "name": "Rain on Stone Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/rain-on-stone-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "chamomile-ink-eau-de-toilette",
+      "name": "Chamomile Ink Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/chamomile-ink-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "vanilla-bark-eau-de-parfum",
+      "name": "Vanilla Bark Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/vanilla-bark-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "lavender-vetiver-eau-de-toilette",
+      "name": "Lavender Vetiver Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/lavender-vetiver-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "black-tea-absolute-eau-de-parfum",
+      "name": "Black Tea Absolute Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/black-tea-absolute-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "leather-margin-eau-de-parfum",
+      "name": "Leather Margin Eau de Parfum",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/leather-margin-eau-de-parfum.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "petitgrain-light-eau-de-toilette",
+      "name": "Petitgrain Light Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/petitgrain-light-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "white-amber-eau-de-toilette",
+      "name": "White Amber Eau de Toilette",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "50 ml",
+      "currentImage": "/images/catalog/white-amber-eau-de-toilette.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 50 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "amber-roll-on-perfume-oil",
+      "name": "Amber Roll-On Perfume Oil",
+      "category": "perfumes",
+      "form": "roll-on perfume oil vial",
+      "size": "10 ml roll-on",
+      "currentImage": "/images/catalog/amber-roll-on-perfume-oil.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "roll-on perfume oil vial niche fragrance house white background studio",
+        "roll-on perfume oil vial 10 ml roll-on product photography ivory background",
+        "perfumes roll-on perfume oil vial packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "discovery-trio",
+      "name": "Discovery Trio",
+      "category": "perfumes",
+      "form": "perfume flacon",
+      "size": "3 x 5 ml",
+      "currentImage": "/images/catalog/discovery-trio.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "perfume flacon niche fragrance house white background studio",
+        "perfume flacon 3 x 5 ml product photography ivory background",
+        "perfumes perfume flacon packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "neroli-body-mist",
+      "name": "Neroli Body Mist",
+      "category": "perfumes",
+      "form": "frosted glass toner bottle",
+      "size": "200 ml",
+      "currentImage": "/images/catalog/neroli-body-mist.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "frosted glass toner bottle niche fragrance house white background studio",
+        "frosted glass toner bottle 200 ml product photography ivory background",
+        "perfumes frosted glass toner bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "fluffy-powder-brush",
+      "name": "Fluffy Powder Brush",
+      "category": "beauty-accessories",
+      "form": "makeup brush",
+      "size": "",
+      "currentImage": "/images/catalog/fluffy-powder-brush.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup brush considered beauty tools brand white background studio",
+        "makeup brush  product photography ivory background",
+        "beauty-accessories makeup brush packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "precision-concealer-brush",
+      "name": "Precision Concealer Brush",
+      "category": "beauty-accessories",
+      "form": "makeup brush",
+      "size": "",
+      "currentImage": "/images/catalog/precision-concealer-brush.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup brush considered beauty tools brand white background studio",
+        "makeup brush  product photography ivory background",
+        "beauty-accessories makeup brush packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "angled-brow-brush",
+      "name": "Angled Brow Brush",
+      "category": "beauty-accessories",
+      "form": "makeup brush",
+      "size": "",
+      "currentImage": "/images/catalog/angled-brow-brush.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup brush considered beauty tools brand white background studio",
+        "makeup brush  product photography ivory background",
+        "beauty-accessories makeup brush packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "silicone-cleansing-pad",
+      "name": "Silicone Cleansing Pad",
+      "category": "beauty-accessories",
+      "form": "pump bottle",
+      "size": "",
+      "currentImage": "/images/catalog/silicone-cleansing-pad.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle considered beauty tools brand white background studio",
+        "pump bottle  product photography ivory background",
+        "beauty-accessories pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "sonic-facial-cleansing-brush",
+      "name": "Sonic Facial Cleansing Brush",
+      "category": "beauty-accessories",
+      "form": "makeup brush",
+      "size": "",
+      "currentImage": "/images/catalog/sonic-facial-cleansing-brush.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "makeup brush considered beauty tools brand white background studio",
+        "makeup brush  product photography ivory background",
+        "beauty-accessories makeup brush packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "cushion-makeup-sponge-two-pack",
+      "name": "Cushion Makeup Sponge, Two Pack",
+      "category": "beauty-accessories",
+      "form": "reusable makeup sponge",
+      "size": "",
+      "currentImage": "/images/catalog/cushion-makeup-sponge-two-pack.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "reusable makeup sponge considered beauty tools brand white background studio",
+        "reusable makeup sponge  product photography ivory background",
+        "beauty-accessories reusable makeup sponge packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "microfiber-makeup-remover-cloth",
+      "name": "Microfiber Makeup Remover Cloth",
+      "category": "beauty-accessories",
+      "form": "pump bottle",
+      "size": "",
+      "currentImage": "/images/catalog/microfiber-makeup-remover-cloth.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle considered beauty tools brand white background studio",
+        "pump bottle  product photography ivory background",
+        "beauty-accessories pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "quartz-facial-roller",
+      "name": "Quartz Facial Roller",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/quartz-facial-roller.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "stainless-steel-gua-sha",
+      "name": "Stainless Steel Gua Sha",
+      "category": "beauty-accessories",
+      "form": "dropper serum bottle",
+      "size": "",
+      "currentImage": "/images/catalog/stainless-steel-gua-sha.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "dropper serum bottle considered beauty tools brand white background studio",
+        "dropper serum bottle  product photography ivory background",
+        "beauty-accessories dropper serum bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "satin-lined-hair-claw",
+      "name": "Satin-Lined Hair Claw",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/satin-lined-hair-claw.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "silk-sleep-bonnet",
+      "name": "Silk Sleep Bonnet",
+      "category": "beauty-accessories",
+      "form": "pump bottle",
+      "size": "One size, adjustable band",
+      "currentImage": "/images/catalog/silk-sleep-bonnet.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle considered beauty tools brand white background studio",
+        "pump bottle One size, adjustable band product photography ivory background",
+        "beauty-accessories pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "microfiber-waffle-hair-towel",
+      "name": "Microfiber Waffle Hair Towel",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/microfiber-waffle-hair-towel.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "mulberry-silk-pillowcase",
+      "name": "Mulberry Silk Pillowcase",
+      "category": "beauty-accessories",
+      "form": "pump bottle",
+      "size": "Standard 50 x 75 cm",
+      "currentImage": "/images/catalog/mulberry-silk-pillowcase.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "pump bottle considered beauty tools brand white background studio",
+        "pump bottle Standard 50 x 75 cm product photography ivory background",
+        "beauty-accessories pump bottle packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "bamboo-detangling-comb",
+      "name": "Bamboo Detangling Comb",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/bamboo-detangling-comb.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "stainless-slant-tweezers",
+      "name": "Stainless Slant Tweezers",
+      "category": "beauty-accessories",
+      "form": "metal precision tool",
+      "size": "",
+      "currentImage": "/images/catalog/stainless-slant-tweezers.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "metal precision tool considered beauty tools brand white background studio",
+        "metal precision tool  product photography ivory background",
+        "beauty-accessories metal precision tool packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "professional-lash-curler",
+      "name": "Professional Lash Curler",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/professional-lash-curler.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "illuminated-travel-mirror",
+      "name": "Illuminated Travel Mirror",
+      "category": "beauty-accessories",
+      "form": "travel mirror",
+      "size": "",
+      "currentImage": "/images/catalog/illuminated-travel-mirror.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "travel mirror considered beauty tools brand white background studio",
+        "travel mirror  product photography ivory background",
+        "beauty-accessories travel mirror packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "brush-roll-organiser",
+      "name": "Brush Roll Organiser",
+      "category": "beauty-accessories",
+      "form": "hair accessory or organiser",
+      "size": "",
+      "currentImage": "/images/catalog/brush-roll-organiser.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "hair accessory or organiser considered beauty tools brand white background studio",
+        "hair accessory or organiser  product photography ivory background",
+        "beauty-accessories hair accessory or organiser packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "silicone-travel-bottle-set",
+      "name": "Silicone Travel Bottle Set",
+      "category": "beauty-accessories",
+      "form": "cream jar",
+      "size": "3 x 100 ml, 2 x 60 ml",
+      "currentImage": "/images/catalog/silicone-travel-bottle-set.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "cream jar considered beauty tools brand white background studio",
+        "cream jar 3 x 100 ml, 2 x 60 ml product photography ivory background",
+        "beauty-accessories cream jar packshot"
+      ],
+      "status": "awaiting_photography"
+    },
+    {
+      "slug": "pumice-and-foot-file-duo",
+      "name": "Pumice and Foot File Duo",
+      "category": "beauty-accessories",
+      "form": "foot care tool",
+      "size": "",
+      "currentImage": "/images/catalog/pumice-and-foot-file-duo.svg",
+      "preferredSource": "supplier or manufacturer press photography",
+      "fallbackSource": "licensed stock photography (Unsplash / Pexels / Pixabay / Wikimedia Commons)",
+      "queries": [
+        "foot care tool considered beauty tools brand white background studio",
+        "foot care tool  product photography ivory background",
+        "beauty-accessories foot care tool packshot"
+      ],
+      "status": "awaiting_photography"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "velune-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VELUNE — premium multi-category e-commerce storefront and admin, zero-dependency Node.js server.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "start:env": "node --env-file=.env server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test --test-concurrency=1 \"tests/**/*.test.mjs\"",
+    "photos:plan": "node scripts/catalog-photos.mjs plan",
+    "photos:ingest": "node scripts/catalog-photos.mjs ingest",
+    "photos:apply": "node scripts/catalog-photos.mjs apply",
+    "photos:audit": "node scripts/catalog-photos.mjs audit",
+    "check": "node --check server.js && node --check store.js && node --check notify.js && node --check integrations.js && node --check public/js/admin.js"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

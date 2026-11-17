@@ -1,0 +1,45 @@
+# Render Blueprint for the VELUNE storefront.
+#
+# VELUNE is a server-rendered Node application: the homepage is rendered from
+# views/home.html by server.js on every request. It must run as a Web Service
+# (npm start). Deploying the repository as a Static Site makes Render look for
+# public/index.html, which does not exist, and every page returns 404.
+#
+# Persistent disk requires a paid instance type. Without it the SQLite database
+# and uploaded product photos are recreated/reset on every deploy.
+
+services:
+  - type: web
+    name: velune
+    runtime: node
+    plan: starter
+    region: oregon
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: DATA_DIR
+        value: /var/data
+      - key: UPLOADS_DIR
+        value: /var/data/uploads
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ADMIN_SECRET
+        generateValue: true
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: INTEGRATIONS_SECRET
+        generateValue: true
+      - key: TRUST_PROXY
+        value: "true"
+    disk:
+      name: velune-data
+      mountPath: /var/data
+      sizeGB: 1

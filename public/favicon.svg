@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VELUNE">
+  <rect width="64" height="64" rx="7" fill="#2b3730"/>
+  <path d="M17 19.5 32 46l15-26.5" fill="none" stroke="#f7f3ec" stroke-width="2.2" stroke-linecap="square"/>
+  <circle cx="32" cy="15.5" r="2" fill="#a58455"/>
+</svg>

@@ -1,0 +1,160 @@
+<a class="skip-link" href="#main">Skip to content</a>
+
+<div class="announcement">{{ANNOUNCEMENT}}</div>
+
+<header class="site-header" data-support-email="{{SUPPORT_EMAIL}}">
+  <div class="header-inner container">
+    <button class="icon-btn nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav" data-nav-toggle>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg>
+    </button>
+    <a href="/" class="wordmark" aria-label="VELUNE — home">VELUNE</a>
+    <nav class="primary-nav" aria-label="Primary">
+      <a href="/shop" data-nav="shop">Shop All</a>
+      {{NAV_CATEGORY_LINKS}}
+    </nav>
+    <div class="header-actions">
+      <div class="currency-switch" role="group" aria-label="Display currency"
+           data-currency-switch data-currency-active="{{CURRENCY_ACTIVE}}" data-currency-rate="{{CURRENCY_RATE}}">
+        <button class="currency-switch__btn" type="button" data-currency-code="USD" aria-pressed="false">USD</button>
+        <button class="currency-switch__btn" type="button" data-currency-code="INR" aria-pressed="false">INR</button>
+      </div>
+      <a class="support-link" href="/contact">Contact</a>
+      <a class="support-link header-checkout" href="/checkout">Checkout</a>
+      <a class="icon-btn account-btn" href="/account" aria-label="Your account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5.5 20a6.5 6.5 0 0 1 13 0"/></svg>
+        <span class="account-dot" data-account-dot hidden></span>
+      </a>
+      <button class="icon-btn" type="button" aria-label="Search" data-search-open>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+      </button>
+      <button class="icon-btn" type="button" aria-label="Open bag" data-cart-open>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M5.5 8h13l-1 11.5h-11L5.5 8Z"/><path d="M9 9V6.5a3 3 0 0 1 6 0V9"/></svg>
+        <span class="cart-count" data-cart-count>0</span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="mobile-nav" id="mobile-nav" aria-hidden="true">
+  <nav aria-label="Mobile">
+    <a href="/shop">Shop All <span>Everything</span></a>
+    {{MOBILE_CATEGORY_LINKS}}
+  </nav>
+  <div class="mobile-nav__foot">
+    <a href="/account">Account</a>
+    <a href="/checkout">Checkout</a>
+    <a href="/order">Track an order</a>
+    <a href="/contact">Contact</a>
+  </div>
+</div>
+
+<div class="search-panel" role="dialog" aria-modal="true" aria-label="Search the store" data-search-panel>
+  <div class="container search-inner">
+    <form class="search-form" role="search" data-search-form>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4 4"/></svg>
+      <input class="search-input" type="search" placeholder="Search products, categories…" aria-label="Search products" autocomplete="off" data-search-input>
+      <button class="search-close" type="button" data-search-close>
+        Close
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+      </button>
+    </form>
+    <div class="search-body">
+      <div class="search-results" data-search-results>
+        <p class="search-empty">Begin typing to search the collection.</p>
+      </div>
+      <aside class="search-aside">
+        <p class="search-aside__label">Considered places to start</p>
+        <ul>
+          {{SEARCH_CATEGORY_LINKS}}
+          <li><a href="/shop?sort=new">New arrivals</a></li>
+        </ul>
+      </aside>
+    </div>
+  </div>
+</div>
+
+<div class="scrim" data-scrim></div>
+
+<aside class="cart-drawer" role="dialog" aria-modal="true" aria-label="Shopping bag" aria-hidden="true" data-cart-drawer>
+  <div class="cart-head">
+    <h2>Your bag <span data-cart-title-count></span></h2>
+    <button class="drawer-close" type="button" aria-label="Close bag" data-cart-close>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+    </button>
+  </div>
+  <div class="cart-lines" data-cart-lines></div>
+  <div class="cart-empty" data-cart-empty>
+    <h3>Your bag is quiet.</h3>
+    <p>Add something considered — we'll keep it here for you.</p>
+    <a class="btn" href="/shop" data-cart-shop>Continue shopping</a>
+  </div>
+  <div class="cart-foot" data-cart-foot hidden>
+    <div class="ship-meter">
+      <p data-ship-copy>Complimentary shipping on qualifying orders.</p>
+      <div class="ship-meter__track"><div class="ship-meter__bar" data-ship-bar></div></div>
+    </div>
+    <div class="cart-subtotal">
+      <span>Subtotal</span>
+      <strong data-cart-subtotal>—</strong>
+    </div>
+    <p class="cart-note">Shipping and taxes are calculated at checkout.</p>
+    <a class="btn btn--wide" href="/checkout">Proceed to checkout</a>
+  </div>
+</aside>
+
+<div class="chat-widget" data-chat>
+  <section class="chat-panel" aria-label="VELUNE live support chat" aria-hidden="true" data-chat-panel>
+    <div class="chat-head">
+      <span class="chat-head__avatar" aria-hidden="true">V</span>
+      <div class="chat-head__id">
+        <strong>VELUNE Support</strong>
+        <span class="chat-head__status" data-chat-presence><i></i>Checking availability…</span>
+      </div>
+      <button class="chat-head__close" type="button" aria-label="Close chat" data-chat-toggle>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+
+    <form class="chat-intro" data-chat-intro hidden>
+      <p class="chat-intro__lead">Chat with a human from the VELUNE care team. Tell us who you are and we will pick up right here.</p>
+      <label class="chat-intro__field"><span>Name</span><input type="text" name="name" autocomplete="name" required maxlength="80"></label>
+      <label class="chat-intro__field"><span>Email</span><input type="email" name="email" autocomplete="email" required maxlength="254"></label>
+      <label class="chat-intro__field"><span>Phone / WhatsApp <em>optional</em></span><input type="tel" name="phone" autocomplete="tel" maxlength="30"></label>
+      <label class="chat-intro__field"><span>Order number <em>optional</em></span><input type="text" name="orderNumber" placeholder="VLN-AB12-CD34" maxlength="20"></label>
+      <button class="btn btn--wide" type="submit">Start live chat</button>
+      <div class="chat-channels" aria-label="Direct contact options">{{CHAT_CONTACT_LINKS}}</div>
+    </form>
+
+    <div class="chat-log" data-chat-log role="log" aria-live="polite"></div>
+    <div class="chat-typing" data-chat-typing hidden aria-hidden="true"><span></span><span></span><span></span>Support is typing</div>
+    <div class="chat-attach-preview" data-chat-attach-preview hidden>
+      <img alt="" data-chat-attach-thumb>
+      <span data-chat-attach-name>Payment slip</span>
+      <button type="button" aria-label="Remove attachment" data-chat-attach-clear>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+      </button>
+    </div>
+
+    <div class="chat-pay" data-chat-pay hidden></div>
+
+    <form class="chat-form" data-chat-form hidden>
+      <button class="chat-form__attach" type="button" aria-label="Attach payment slip or photo" data-chat-attach>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M20 11.5 12 19.5a5 5 0 0 1-7-7l8-8a3.5 3.5 0 0 1 5 5l-8 8a2 2 0 0 1-3-3l7-7"/></svg>
+      </button>
+      <input type="file" accept="image/png,image/jpeg,image/webp" hidden data-chat-file>
+      <textarea rows="1" placeholder="Write a message…" aria-label="Your message" maxlength="2000" data-chat-input></textarea>
+      <button type="submit" aria-label="Send message">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M4 12 20 4l-6 16-3-7-7-1Z"/></svg>
+      </button>
+    </form>
+    <p class="chat-footnote" data-chat-footnote hidden>Payment slips and screenshots are stored only for order verification.</p>
+  </section>
+
+  <button class="chat-toggle" type="button" aria-label="Chat with VELUNE support" aria-expanded="false" data-chat-launch>
+    <svg class="icon-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M20 11.5a7.5 7.5 0 0 1-10.9 6.7L4 20l1.6-4.4A7.5 7.5 0 1 1 20 11.5Z"/></svg>
+    <svg class="icon-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg>
+    <span class="chat-toggle__badge" data-chat-badge hidden>0</span>
+  </button>
+</div>
+
+<div class="toast-stack" data-toast-stack aria-live="polite"></div>
